@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tasty-tiles/static/css/main.d4f632b4.css",
-    "main.js": "/tasty-tiles/static/js/main.95ec43a1.js",
+    "main.js": "/tasty-tiles/static/js/main.6aa423b3.js",
     "index.html": "/tasty-tiles/index.html",
     "main.d4f632b4.css.map": "/tasty-tiles/static/css/main.d4f632b4.css.map",
-    "main.95ec43a1.js.map": "/tasty-tiles/static/js/main.95ec43a1.js.map"
+    "main.6aa423b3.js.map": "/tasty-tiles/static/js/main.6aa423b3.js.map"
   },
   "entrypoints": [
     "static/css/main.d4f632b4.css",
-    "static/js/main.95ec43a1.js"
+    "static/js/main.6aa423b3.js"
   ]
 }
