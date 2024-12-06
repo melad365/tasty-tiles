@@ -1,6 +1,6 @@
 import React from 'react';
-import Tile from './Tile';
-import './TileList.css'; // Create this file for styling.
+import './tileList.css'; // Create this file for styling.
+import Tile from './tile';
 
 const TileList = ({ dishes }) => {
   return (

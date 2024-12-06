@@ -1,5 +1,5 @@
 import React, { useState, useSyncExternalStore } from 'react';
-import './Tile.css'; // Create this file for styling if needed.
+import './tile.css'; // Create this file for styling if needed.
 import { styled } from '@mui/material/styles';
 import { Avatar, Card, CardActions, CardContent, CardHeader, CardMedia, Collapse, IconButton, Typography } from '@mui/material';
 import MoreVertIcon from '@mui/icons-material/MoreVert';
@@ -43,7 +43,7 @@ const Tile = ({ dish }) => {
     };
 
     return (
-        <Card sx={{ maxWidth: 345 }}>
+        <Card sx={{ maxWidth: 345, margin: 2 }}>
         <CardHeader
             avatar={
             <Avatar sx={{ bgcolor: red[500] }} aria-label="recipe">
