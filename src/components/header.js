@@ -37,7 +37,7 @@ const Header = ({ appName, logo }) => {
           }}
         >
             <Tab label="Home" sx={{ color: 'black' }} />
-            <Tab label="Recipes" sx={{ color: 'black' }} />
+            {/* <Tab label="Recipes" sx={{ color: 'black' }} /> */}
             <Tab label="About" sx={{ color: 'black' }} />
         </Tabs>
       </Toolbar>
